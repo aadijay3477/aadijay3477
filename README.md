@@ -1,12 +1,10 @@
 ## Hi there, I'm Aaditya 👋
 
-- 👨‍🎓 I’m pursuing BTech from Jaypee Institute of Information Technology
-- 🌱 I’m looking for internship Opportunities
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 👨‍🎓 Completed B.Tech(ECE) from Jaypee Institute of Information Technology
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 - ##### Contact me using ::
 - 📱  Phone: +91-8112935226
 - 📧 Email: aadityajaiswal2128@gmail.com
 - 💼 Linkedin: https://www.linkedin.com/in/aaditya-jaiswal-55a2751aa/
-
-
+- 🏅 Hackerrank: https://www.hackerrank.com/aadijay3477?hr_r=1
