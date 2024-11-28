@@ -9,5 +9,5 @@
 - 💼 Linkedin: https://www.linkedin.com/in/aaditya-jaiswal-55a2751aa/
 
 - #### Work Experience ::
-- DSE@Infosys (1.5+ yr)
+- DSE@Infosys (2.5+ yr)
 - Intern - TPA@Juspay ([Backend] - 6 months)
